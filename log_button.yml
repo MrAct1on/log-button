@@ -1,0 +1,10 @@
+name: Log Button
+description: Adds a navigation button that opens Settings → Logs for the current Stash instance.
+version: 1.0.0
+url: https://github.com/MrAct1on/log-button/tree/GitAction
+ui:
+  requires: []
+  javascript:
+    - log_button.js
+  css:
+    - log_button.css

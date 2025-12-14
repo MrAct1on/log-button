@@ -1,0 +1,15 @@
+id: random_button
+name: RandomButton
+metadata:
+  description: Adds a button to quickly jump to a random scene, image, performer,
+    studio, group, tag, or gallery, both on overview and internal entity pages.
+version: 2.0.1-c1d1bc1
+date: "2025-05-30 07:23:04"
+requires: []
+source_repository: https://stashapp.github.io/CommunityScripts/stable/index.yml
+files:
+- random_button.css
+- README.md
+- random_button.yml
+- LICENSE.md
+- random_button.js
