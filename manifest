@@ -1,15 +1,13 @@
-id: random_button
-name: RandomButton
+id: log_button
+name: LogButton
 metadata:
-  description: Adds a button to quickly jump to a random scene, image, performer,
-    studio, group, tag, or gallery, both on overview and internal entity pages.
-version: 2.0.1-c1d1bc1
-date: "2025-05-30 07:23:04"
+  description: Adds a navigation button that opens Settings → Logs for the current Stash instance.
+version: 1.0
+date: "2025-12-130 09:22:04"
 requires: []
-source_repository: https://stashapp.github.io/CommunityScripts/stable/index.yml
+source_repository: https://github.com/MrAct1on/log-button/log_button.yml
 files:
-- random_button.css
 - README.md
-- random_button.yml
-- LICENSE.md
-- random_button.js
+- log_button.css
+- log_button.yml
+- log_button.js
