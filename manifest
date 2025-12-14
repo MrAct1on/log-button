@@ -1,5 +1,5 @@
 id: log_button
-name: LogButton
+name: Log Button
 metadata:
   description: Adds a navigation button that opens Settings → Logs for the current Stash instance.
 version: 1.0
