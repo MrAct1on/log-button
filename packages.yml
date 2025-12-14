@@ -1,5 +1,5 @@
 - name: Log Button
-  description: Adds a persistent Logs button to the Stash navbar that opens Settings → Logs.
+  description: Adds a persistent Logs button to the Stash navbar that opens Logs in Stash.
   version: 1.0.0
   homepage: https://github.com/MrAct1on/log-button
   plugin_yml: log_button.yml
